@@ -1,0 +1,63 @@
+#Home{
+    background-color: rgb(255, 187, 0);
+    height: 590px;
+    width: 100%;
+}
+
+
+#h1{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-weight: bolder;
+    font-family: UberMove, sans-serif
+}
+.searchArea{
+    height: 100px;
+    margin-top: 230px;
+}
+.location{
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    width: 20px;
+    position: relative;
+    top: 20px;
+    width: 50px;
+    margin-left: 300px;
+}
+#location-icon{
+    height: 25px;
+    width: 25px;
+    margin-top: 20px;
+    margin-left:20px ;
+}
+#search{
+    margin-left: 350px;
+    position: relative;
+    bottom: 40px;
+    height: 60px;
+    width: 550px;
+    border: none;
+    outline: none;
+    padding-left: 20px;
+    font-size: larger;
+    font-weight: 500;
+}
+#find-food{
+    height: 60px;
+    width: 120px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 42px;
+    border: none;
+    color: white;
+    background-color: black;
+    font-size: larger;
+    font-weight: 500;
+    outline: none;
+}
+.nearme{
+    padding-top: 50px;
+    padding-left: 40px;
+    height: 250px;
+}

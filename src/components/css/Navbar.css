@@ -1,0 +1,21 @@
+#navbar{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+}
+.menu-bar{
+    font-size: 25px;
+}
+span{
+    font-weight: bolder;
+}
+.navbar-brand{
+    font-size: xx-large;
+    margin-left: 10px;
+
+}
+#menu-btn{
+    border: none;
+    padding: 10px;
+    outline: none;
+    background-color: rgb(255, 255, 255);
+}
